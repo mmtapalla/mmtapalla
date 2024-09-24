@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a recent Computer Engineering graduate at the Polytechnic University of the Philippines Manila and with 5 months of IT work experience.
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mmtapalla/)
 
 # 📊 GitHub Stats:
